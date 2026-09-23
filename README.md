@@ -27,41 +27,10 @@ Problem Solving| Embedded Systems
 Music Theory| Digital Media
 Audio Engineering| Creative Technology
 
----
-
-📚 Currently Learning
-
-Programming          ███████░░░  70%
-Git & GitHub         ██████░░░░  60%
-Electronics          ███████░░░  70%
-Audio Engineering    █████░░░░░  50%
 
 ---
 
-📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamindu-chathuranga&show_icons=true&theme=tokyonight&hide_border=true" />
-</p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamindu-chathuranga&theme=tokyonight&hide_border=true" />
-</p>---
-
-🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chamindu-chathuranga/chamindu-chathuranga/output/github-contribution-grid-snake.svg" />
-</p>---
-
-🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/chamindu-chathuranga">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>---
-
-<p align="center">
-  <b>⚡ Learn • Build • Experiment • Improve ⚡</b>
 </p><p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
