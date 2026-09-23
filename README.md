@@ -1,31 +1,16 @@
 👋 Hi, I'm Chamindu Chathuranga
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+learning+Programming+%F0%9F%92%BB;Exploring+Electronics+%F0%9F%94%8C;Learning+Audio+Engineering+%F0%9F%8E%B5;Building+%26+Learning+Every+Day+%F0%9F%9A%80" />
-</p>---
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+learning+Programming+%F0%9F%92%BB;Exploring+Electronics+%F0%9F%94%8C;
 
 🧑‍💻 About Me
 
 I'm a curious learner interested in technology, programming, electronics, and music.
 
 - 🌱 Currently learning Programming & Software Development
-- 💻 Exploring Git & GitHub
-- 🔌 Interested in Electronics & DIY Projects
-- 🎵 Learning Music Theory & Audio Engineering
+- 🎵 Learning Music
 - 🚀 Building projects and improving my skills step by step
 
----
-
-🛠️ Interests
-
-💻 Programming| 🔌 Electronics
-Software Development| DIY Projects
-Git & GitHub| Hardware
-Problem Solving| Embedded Systems
-
-🎵 Music| 🎨 Creative
-Music Theory| Digital Media
-Audio Engineering| Creative Technology
 
 
 ---
