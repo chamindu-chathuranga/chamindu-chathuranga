@@ -1,19 +1,8 @@
 👋 Hi, I'm Chamindu Chathuranga
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+learning+Programming+%F0%9F%92%BB;Exploring+Electronics+%F0%9F%94%8C;
 
-🧑‍💻 About Me
+I'm learning software engineering
 
-I'm a curious learner interested in technology, programming, electronics, and music.
-
-- 🌱 Currently learning Programming & Software Development
-- 🎵 Learning Music
-- 🚀 Building projects and improving my skills step by step
-
-
-
----
 
 
 </p><p align="center">
